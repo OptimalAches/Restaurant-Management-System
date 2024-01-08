@@ -1,10 +1,12 @@
 # Restaurant-Management-System
-An interactive system with multiple features developed using Python.
-Upon running the code a window appears which offers an interactive GUI developed using Tkinter framework.
-Select the menu item using the check box provided in front of it and enter the amount to be ordered.
-On clicking the Total button, complete payment information including the taxes and service charge is displayed separately.
-On clicking the Receipt button, instant invoice is generated along with the date of the order.
-A separate calculator is also provided for calculations.
-Using the Reset button, one can reset the entries.
-An Exit button is provided at the end, which upon clicking asks for a confirmation.
-Upon hitting "yes" the window exits.
+<h3>Introduction</h3><br>
+Welcome to the Restaurant Management System repository! This project is a Python-based application designed to streamline the management of a restaurant's orders, including both food and drinks. The system is built using the tkinter framework to provide an interactive and user-friendly interface.
+<h3>Features</h3><br>
+User-friendly Interface: The application provides an intuitive and easy-to-use interface for both customers and restaurant staff.<br>
+Order Management: Efficiently manage and track orders for various food items and drinks.<br>
+Cost Calculation: Automatically calculates the cost of ordered items, including drinks and cakes, with detailed breakdowns.<br>
+Receipt Generation: Generates a detailed receipt with a unique reference number for each order.<br>
+<h3>Technologies Used</h3><br>
+Python: The core programming language used for developing the application.<br>
+tkinter: A GUI toolkit for creating interactive and visually appealing interfaces.<br>
+
